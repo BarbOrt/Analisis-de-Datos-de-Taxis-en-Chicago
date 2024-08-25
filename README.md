@@ -38,7 +38,7 @@ La base de datos incluye las siguientes tablas:
 ## Pasos Realizados
 
 1. **Análisis del Clima**:
-   - Se descargaron y analizaron los datos meteorológicos de noviembre de 2017 desde [este enlace](https://practicum-content.s3.us-west-1.amazonaws.com/data-analyst-eng/moved_chicago_weather_2017.html).
+   - Se descargaron y analizaron los datos meteorológicos de noviembre de 2017 desde [📄 este enlace](https://practicum-content.s3.us-west-1.amazonaws.com/data-analyst-eng/moved_chicago_weather_2017.html).
 
 2. **Análisis Exploratorio de Datos**:
    - Número de viajes en taxi para cada empresa del 15 al 16 de noviembre de 2017.
